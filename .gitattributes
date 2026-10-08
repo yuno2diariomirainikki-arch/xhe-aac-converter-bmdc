@@ -1,0 +1,8 @@
+# Generated on 2026-11-16
+# See https://github.com/github/linguist
+# Default behavior  
+*.woff2 binary
+yarn.lock linguist-generated
+
+public/**/*.html linguist-vendored
+*.ts linguist-detectable
